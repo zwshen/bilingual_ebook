@@ -11,7 +11,7 @@ Bilingual books can be a valuable tool for those who are learning English as a s
 Overall, using bilingual books to learn English is an effective and engaging way to improve language skills, increase vocabulary, and deepen cultural understanding.
 
 
-# book lists
+# Reading List
 
 Lexile levels can be a useful tool to determine the reading level of a book and match it with the appropriate reader's skills. However, it's important to note that Lexile levels are just one of many ways to assess the difficulty of a text, and factors such as sentence structure, vocabulary, and literary techniques can also impact the level of challenge for a reader.
 
@@ -24,3 +24,37 @@ Lexile levels can be a useful tool to determine the reading level of a book and 
 | "A Promised Land" by Barack Obama | Advanced | Enhances vocabulary, improves comprehension of political and historical events, and helps develop critical thinking skills. | 702,000 | 1180L |
 | "The University of Berkshire Hathaway" | Intermediate to Advanced | Enhances vocabulary and comprehension of finance and investment concepts, develops critical thinking skills, and builds knowledge of business principles. | 138,290 | 1200L |
 | "Seeking Wisdom" by Peter Bevelin | Advanced | Improves comprehension of complex concepts related to critical thinking and decision-making, enhances vocabulary, and develops critical thinking skills. | 304,446 | 1280L |
+
+## Walter Isaacson
+
+Walter Isaacson's books are generally written for advanced readers due to their complex subject matter and historical context. They can help readers develop advanced vocabulary, critical thinking skills, and comprehension of complex concepts in various fields, including technology, science, and history.
+
+| Book Title | Expected Level of Reading Skill | How Reading Can Help Improve Language Proficiency | Word Count | Lexile Level |
+| --- | --- | --- | --- | --- |
+| "Steve Jobs" | Advanced | Enhances vocabulary, improves comprehension of complex business and technology concepts, and develops critical thinking skills. | 270,000 | 1050L |
+| "Leonardo da Vinci" | Advanced | Builds advanced vocabulary, helps improve comprehension of complex historical events and ideas, and develops critical thinking skills. | 608,104 | 1200L |
+| "Benjamin Franklin: An American Life" | Advanced | Enhances vocabulary, improves comprehension of historical events and social issues, and develops critical thinking skills. | 608,104 | 1200L |
+| "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution" | Advanced | Improves comprehension of complex technological concepts, enhances vocabulary, and develops critical thinking skills. | 542,720 | 1220L |
+
+## Nassim Nicholas Taleb
+
+Nassim Nicholas Taleb's books are written for advanced readers due to their complex subject matter and philosophical ideas. They can help readers develop advanced vocabulary, critical thinking skills, and comprehension of complex concepts related to probability, randomness, and risk.
+
+| Book Title | Expected Level of Reading Skill | How Reading Can Help Improve Language Proficiency | Word Count | Lexile Level |
+| --- | --- | --- | --- | --- |
+| "The Black Swan" | Advanced | Enhances vocabulary, improves comprehension of complex statistical and philosophical concepts, and develops critical thinking skills. | 171,452 | 1320L |
+| "Fooled by Randomness" | Advanced | Improves comprehension of complex probability and risk concepts, enhances vocabulary, and develops critical thinking skills. | 64,000 | 1240L |
+| "Antifragile: Things That Gain from Disorder" | Advanced | Enhances vocabulary, improves comprehension of complex philosophical concepts, and develops critical thinking skills. | 184,930 | 1350L |
+| "Skin in the Game: Hidden Asymmetries in Daily Life" | Advanced | Enhances vocabulary, improves comprehension of complex philosophical and economic concepts, and develops critical thinking skills. | 112,000 | 1200L |
+
+## Stephe King
+
+Stephen King's novels can be enjoyed by readers with intermediate to advanced reading skills, depending on the specific book. They can help readers develop vocabulary, comprehension of suspenseful and horror-themed writing, and critical thinking skills.
+
+| Book Title | Expected Level of Reading Skill | How Reading Can Help Improve Language Proficiency | Word Count | Lexile Level |
+| --- | --- | --- | --- | --- |
+| "The Shining" | Intermediate/Advanced | Builds vocabulary, improves comprehension of suspenseful and horror-themed writing, and can help develop critical thinking skills. | 157,000 | 890L |
+| "Carrie" | Intermediate/Advanced | Builds vocabulary, improves comprehension of suspenseful and horror-themed writing, and can help develop critical thinking skills. | 60,000 | 790L |
+| "IT" | Advanced | Enhances vocabulary, improves comprehension of complex horror themes, and can help develop critical thinking skills. | 444,000 | 830L |
+| "The Stand" | Advanced | Enhances vocabulary, improves comprehension of complex themes and character development, and can help develop critical thinking skills. | 472,000 | 890L |
+| "The Dark Tower" Series | Advanced | Enhances vocabulary, improves comprehension of complex themes and character development across an extended series, and can help develop critical thinking skills. | Varies | Varies |
