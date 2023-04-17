@@ -66,13 +66,14 @@ Lin Yutang was a Chinese writer and philosopher who wrote both in English and Ch
 Lin Yutang's books are generally written in a clear and accessible style, making them suitable for intermediate to advanced English language learners. Reading his works can help improve vocabulary, comprehension, and cultural understanding, particularly of Chinese philosophy and culture. However, his works may not be the best choice for beginners as they can contain more advanced vocabulary and philosophical concepts.
 
 | Book Title	| Expected Reading Level |	Word Count	|Lexile Level |
+| --- | --- | --- | --- |
 | The Importance of Living |	Intermediate/Advanced	| 240,000 |	1270L |
-| My Country and My People |	Intermediate/Advanced	146,000	1210L |
-| The Wisdom of Confucius |	Intermediate/Advanced	50,000	1130L |
-| Moment in Peking |	Intermediate/Advanced |	200,000	1220L |
-| The Gay Genius |	Intermediate/Advanced |	166,000	1200L |
-| Chinatown Family |	Intermediate/Advanced |	123,000	1160L |
-| The Chinese Theory of Art |	Intermediate/Advanced |	53,000	1160L |
-| On the Wisdom of America |	Intermediate/Advanced |	110,000	1180L |
-| The Chinese Way of Life |	Intermediate/Advanced |	40,000	1070L |
+| My Country and My People |	Intermediate/Advanced |	146,000 |	1210L |
+| The Wisdom of Confucius |	Intermediate/Advanced	| 50,000	| 1130L |
+| Moment in Peking |	Intermediate/Advanced |	200,000 |	1220L |
+| The Gay Genius |	Intermediate/Advanced |	166,000	| 1200L |
+| Chinatown Family |	Intermediate/Advanced |	123,000 |	1160L |
+| The Chinese Theory of Art |	Intermediate/Advanced |	53,000 | 1160L |
+| On the Wisdom of America |	Intermediate/Advanced |	110,000	| 1180L |
+| The Chinese Way of Life |	Intermediate/Advanced |	40,000	| 1070L |
 
